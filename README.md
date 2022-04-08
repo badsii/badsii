@@ -6,3 +6,5 @@
 
 🐱‍👤・**Want to reach? Add badsi#1945 on [discord](https://discord.gg/acxeycMdNJ)**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=badsii&count_private=true&hide=procfile&theme=dark&border_color=000000&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="badsii" /> </p>
+
+<a href="https://badsi.uno/" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
